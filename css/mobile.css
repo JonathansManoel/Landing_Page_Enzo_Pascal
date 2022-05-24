@@ -5,12 +5,9 @@
     font-family: Montserrat, sans-serif;
     font-size: 90%;
     font-weight: 300;
-    color: rgb(0, 0, 0);
+    color: #000000;
     align-content: center;
-    background: linear-gradient(
-      rgba(162, 252, 255, 0.35),
-      rgba(0, 255, 210, 0.13)
-    );
+    background: linear-gradient(#a2fcff59, #00ffd221);
   }
 
   .menu-pagina {
@@ -19,9 +16,9 @@
 
   .mais-informacoes {
     font-size: 21px;
-    border: 1px solid rgb(146 203 199);
+    border: 1px solid #92cbc7;
     border-radius: 29px;
-    box-shadow: rgb(2 68 63) 0px 0px 30px 4px;
+    box-shadow: #02443f 0px 0px 30px 4px;
     text-align: inherit;
     background-color: #92cbc7;
   }
@@ -40,7 +37,7 @@
     border-radius: 40px;
     padding: 20px;
     box-shadow: #02443f 0px 0px 30px 4px;
-    border: 1px solid rgb(146 203 199);
+    border: 1px solid #92cbc7;
     font-size: 67%;
     display: inline-flex;
   }
@@ -50,7 +47,7 @@
     border-radius: 30px;
     text-align: center;
     align-items: center;
-    background-color: rgb(146, 203, 199);
+    background-color: #92cbc7;
     box-shadow: #02443f 0px 0px 30px 4px;
   }
 
