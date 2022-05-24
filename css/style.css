@@ -96,7 +96,6 @@ a {
   text-align: inherit;
   background-color: #92cbc74d;
 }
-}
 
 .mais-informacoes-p {
   margin: 5px;
@@ -199,4 +198,8 @@ a {
   display: flex;
   justify-content: flex-end;
   padding: 0 20px 0 0;
+}
+
+.retornar-topo img {
+  width: 50px;
 }
